@@ -1,4 +1,5 @@
-# Mi-primera-API
+# My First Access Data Class
+
 ## Escuela
  Universidad Tecnologica Metropolitana
 
@@ -9,7 +10,7 @@
 Diego Ivan May Tuz
 
 ## Actividad
- Actividad Consumo de Api P
+ Continuacion de API
 
 ## Alumno(s)
  Delmy Edith Cab Pech
